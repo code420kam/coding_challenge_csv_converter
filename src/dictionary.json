@@ -1,0 +1,33 @@
+{
+    "artist":
+    [
+        {
+            "name": "exampleArtist1",
+            "mbid": "example",
+            "image": "example",
+            "url": "example",
+            "image_small": "example"
+        },
+        {
+            "name": "exampleArtist2",
+            "mbid": "example",
+            "image": "example",
+            "url": "example",
+            "image_small": "example"
+        },
+        {
+            "name": "exampleArtist3",
+            "mbid": "example",
+            "image": "example",
+            "url": "example",
+            "image_small": "example"
+        },
+        {
+            "name": "exampleArtist4",
+            "mbid": "example",
+            "image": "example",
+            "url": "example",
+            "image_small": "example"
+        }
+    ]
+}
