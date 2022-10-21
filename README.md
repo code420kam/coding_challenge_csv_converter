@@ -32,3 +32,4 @@ PORT=8000
 ## HOW TO RUN
 
 run `npm start` to start the application after you had add `"start": "nodemon src/index.js"` at `scripts` section to your package.json file.
+Now you can go on your explorer and open the url `http://localhost:8000`
