@@ -31,4 +31,4 @@ PORT=8000
 
 ## HOW TO RUN
 
-run `npm start` to start the application after you had add `"start": "nodemon src/index.js"` to your package.json file.
+run `npm start` to start the application after you had add `"start": "nodemon src/index.js"` at `scripts` section to your package.json file.
