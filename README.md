@@ -24,7 +24,6 @@ For this example we will go on with npm.
 ## ENVIRONMENT VARIABLES
 Bellow are the environmental variables that needs to be set in a `.env` file. This is the default setting that I used for development, but you can change it to what works for you.
 ```
-API_KEY=44303aad3981feb9d95a8eb16cb45a14
 ROOTURL=http://ws.audioscrobbler.com/2.0/
 PORT=8000
 ```
