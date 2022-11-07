@@ -11,11 +11,6 @@ export function test(response, saveas) {
                 mbid: match.mbid,
                 url: match.url,
                 image_small: match.image[0],
-                /*
-                Here I put the whole image array, because you write that the CSV file should include
-                image_small and image. But on my response the image array hat a few different elements like
-                small, medium, large, extralarge, mega and I don't know which of those you meant
-                */
                 image: match.image,
             }
         })
